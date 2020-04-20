@@ -2,5 +2,5 @@
 layout: slide
 title: "welcome to our second slide"
 ---
-Your text
+"the button to edit was 3 horizontally aligned dots"
 Use the left arrow to go back!
